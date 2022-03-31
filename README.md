@@ -1,3 +1,1 @@
-<p align="center">
-  [![RemMai GitHub stats](https://github-readme-stats.vercel.app/api?username=remmai)](https://github.com/remmai)
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=remmai" alt="abhisheknaiidu" />
