@@ -1,12 +1,11 @@
-<p align="center"> <img src="" alt="abhisheknaiidu" />  
 
-# 🥤Hi,I'm RemMai.
-### You can get to know me in the following ways.
+# 🥤Hi,I'm RemMai.  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remmai)
 ![Stats](https://github-readme-stats.vercel.app/api?username=remmai)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remmai&hide=javascript,css)
 
 
+### You can get to know me in the following ways.
 [![Github](./assets/github.png)](https://www.github.com/remmai) 
 [![Gitee](./assets/gitee.png)](https://gitee.com/remmai)
 [![Cnblogs](./assets/cnblogs.png)](https://www.cnblogs.com/remmai)
