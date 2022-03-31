@@ -1,9 +1,16 @@
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=remmai" alt="abhisheknaiidu" />
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=remmai" alt="abhisheknaiidu" />  
 
 # 🥤Hi,I'm RemMai.
 ### You can get to know me in the following ways.
 
-[<img src="./assets/github.png" >](https://www.github.com/remmai) 
-[<img src="./assets/cnblogs.png">](https://www.cnblogs.com/remmai)
-[<img src="./assets/gitee.png">](https://gitee.com/remmai)
+
+[![Github](./assets/github.png)](https://www.github.com/remmai) 
+[![Cnblogs](./assets/cnblogs.png)](https://www.cnblogs.com/remmai)
+[![Gitee](./assets/gitee.png)](https://gitee.com/remmai)
+[![Gitee](./assets/twitter.png)](https://twitter.com/remmai7)
+
+### You can contact me through the following ways.
+
+[![Gitee](./assets/qq.png)](https://www.github.com/remmai) 2464233121 <br>
+[![Gitee](./assets/wechat.png)](https://www.cnblogs.com/remmai) remmaicool <br>
+![Gitee](./assets/gmail.png) remcoolmai@google.com <br>
