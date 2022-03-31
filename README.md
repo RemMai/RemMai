@@ -1,7 +1,10 @@
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=remmai" alt="abhisheknaiidu" />  
+<p align="center"> <img src="" alt="abhisheknaiidu" />  
 
 # 🥤Hi,I'm RemMai.
 ### You can get to know me in the following ways.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remmai)
+![Stats](https://github-readme-stats.vercel.app/api?username=remmai)
 
 
 [![Github](./assets/github.png)](https://www.github.com/remmai) 
