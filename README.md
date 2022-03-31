@@ -1,2 +1,3 @@
-
-[![RemMai GitHub stats](https://github-readme-stats.vercel.app/api?username=remmai)](https://github.com/remmai)
+<p align="center">
+  [![RemMai GitHub stats](https://github-readme-stats.vercel.app/api?username=remmai)](https://github.com/remmai)
+</p>
