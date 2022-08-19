@@ -1,7 +1,6 @@
+![Hello](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%A5%B0Hi%2CI'm+RemMai.;Nice+to+meet+you.%E2%98%83%EF%B8%8F)
 
-# 🥤Hi,I'm RemMai.  
-
-![Stats](https://github-readme-stats.vercel.app/api?username=remmai)
+![RemMai's GitHub stats](https://github-readme-stats.vercel.app/api?username=remmai&theme=cobalt&show_icons=false&bg_color=000000&locale=cn&border_radius=8&show_icons=true&include_all_commits=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remmai&hide=javascript,css)
 
 
