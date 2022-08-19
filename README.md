@@ -2,7 +2,7 @@
   
 <img height='260' src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmai&layout=compact&langs_count=4&hide=EJS&exclude_repo=remmai.github.io,cdn&custom_title=I%27m%20a%20CSharp%20developer&theme=cobalt&bg_color=000000&border_radius=8" title='Developer Langs' />
 
-<img height="260" src="https://github-readme-stats.vercel.app/api?username=remmai&theme=cobalt&bg_color=000000&border_radius=8&show_icons=true&include_all_commits=true&hide_title=true" title='RemMai's GitHub stats' />
+<img height="260" src="https://github-readme-stats.vercel.app/api?username=remmai&theme=cobalt&bg_color=000000&border_radius=8&show_icons=true&include_all_commits=true&hide_title=true" title="RemMai's GitHub stats" />
 
 <img height="260" src="https://github-readme-stats.vercel.app/api/pin/?username=remmai&repo=smartcat&theme=cobalt&bg_color=000000&border_radius=8)](https://github.com/remmai/smartcat"  title='SamrtCat' />
 
