@@ -14,7 +14,3 @@
 ![QQ](./assets/qq.png) 2464233121 <br>
 ![WeChat](./assets/wechat.png) remmaicool <br>
 ![Gmail](./assets/gmail.png) remcoolmai@gmail.com <br>
-
-### My Projects.
-
-
