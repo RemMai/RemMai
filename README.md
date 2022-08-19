@@ -9,8 +9,6 @@
 [![Github](./assets/github.png)](https://www.github.com/remmai) 
 [![Gitee](./assets/gitee.png)](https://gitee.com/remmai)
 [![Cnblogs](./assets/cnblogs.png)](https://www.cnblogs.com/remmai)
-
-### You can contact me through the following ways.
-![QQ](./assets/qq.png) 2464233121 <br>
-![WeChat](./assets/wechat.png) remmaicool <br>
-![Gmail](./assets/gmail.png) remcoolmai@gmail.com <br>
+![2464233121](./assets/qq.png)
+![remmaicool](./assets/wechat.png)
+![remcoolmai@gmail.com](./assets/gmail.png)
