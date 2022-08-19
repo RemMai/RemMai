@@ -3,7 +3,7 @@
 ![Developer Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remmai&layout=compact&langs_count=4&hide=EJS&exclude_repo=remmai.github.io,cdn&custom_title=I%27m%20a%20CSharp%20developer&theme=cobalt&bg_color=000000&border_radius=8)
 [![Samrt Cart](https://github-readme-stats.vercel.app/api/pin/?username=remmai&repo=smartcat&theme=cobalt&bg_color=000000&border_radius=8)](https://github.com/remmai/smartcat)
 
-![RemMai's GitHub stats](https://github-readme-stats.vercel.app/api?username=remmai&theme=cobalt&bg_color=000000&locale=cn&border_radius=8&show_icons=true&include_all_commits=true&hide_title=true)
+![RemMai's GitHub stats](https://github-readme-stats.vercel.app/api?username=remmai&theme=cobalt&bg_color=000000&border_radius=8&show_icons=true&include_all_commits=true&hide_title=true)
 
 ### You can get to know me in the following ways.
 [![Github](./assets/github.png)](https://www.github.com/remmai) 
