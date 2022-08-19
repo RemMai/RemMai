@@ -1,8 +1,13 @@
-![Hello](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%A5%B0Hi%2CI'm+RemMai.;Nice+to+meet+you.%E2%98%83%EF%B8%8F)
-  
-<img height='180' width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmai&layout=compact&langs_count=4&hide=EJS&exclude_repo=remmai.github.io,cdn&custom_title=I%27m%20a%20CSharp%20developer&theme=cobalt&bg_color=000000&border_radius=8" title='Developer Langs' />
-<img height="180" width="480" src="https://github-readme-stats.vercel.app/api?username=remmai&theme=cobalt&bg_color=000000&border_radius=8&show_icons=true&include_all_commits=true&hide_title=true" title="RemMai's GitHub stats" />
-<img height="180" width="480" src="https://github-readme-stats.vercel.app/api/pin/?username=remmai&repo=smartcat&theme=cobalt&bg_color=000000&border_radius=8)](https://github.com/remmai/smartcat"  title='SamrtCat' />
+
+<div align="left" >
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%A5%B0Hi%2CI'm+RemMai.;Nice+to+meet+you.%E2%98%83%EF%B8%8F" />
+</div>
+<img  height="180" src="https://github-readme-stats.vercel.app/api?username=remmai&theme=cobalt&bg_color=fff&text_color=91bef0&icon_color=91bef0&border_radius=8&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true" title="RemMai's GitHub stats" />
+
+<img  width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmai&layout=compact&langs_count=4&hide=EJS&exclude_repo=remmai.github.io,cdn&custom_title=I%27m%20a%20CSharp%20developer&theme=cobalt&bg_color=fff&text_color=91bef0&border_radius=8&hide_border=true" title='Developer Langs' />
+
+<img  width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=remmai&repo=smartcat&theme=cobalt&bg_color=fff&text_color=91bef0&border_radius=8&hide_border=true&layout=compact" title='SamrtCat' />
+
 
 ### You can get to know me in the following ways.
 [![Github](./assets/github.png)](https://www.github.com/remmai) 
