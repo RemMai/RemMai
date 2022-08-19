@@ -1,8 +1,8 @@
 ![Hello](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%A5%B0Hi%2CI'm+RemMai.;Nice+to+meet+you.%E2%98%83%EF%B8%8F)
   
-![Developer Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remmai&layout=compact&langs_count=4&hide=EJS&exclude_repo=remmai.github.io,cdn&custom_title=I%27m%20a%20CSharp%20developer)  
+![Developer Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remmai&layout=compact&langs_count=4&hide=EJS&exclude_repo=remmai.github.io,cdn&custom_title=I%27m%20a%20CSharp%20developer&theme=cobalt&bg_color=000000)  
 
-![RemMai's GitHub stats](https://github-readme-stats.vercel.app/api?username=remmai&theme=cobalt&show_icons=false&bg_color=000000&locale=cn&border_radius=8&show_icons=true&include_all_commits=true&hide_title=true)
+![RemMai's GitHub stats](https://github-readme-stats.vercel.app/api?username=remmai&theme=cobalt&bg_color=000000&locale=cn&border_radius=8&show_icons=true&include_all_commits=true&hide_title=true)
 
 ### You can get to know me in the following ways.
 [![Github](./assets/github.png)](https://www.github.com/remmai) 
