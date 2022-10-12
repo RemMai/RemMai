@@ -6,7 +6,7 @@
 
 <img  width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmai&layout=compact&langs_count=4&hide=EJS&exclude_repo=remmai.github.io,cdn&custom_title=I%27m%20a%20CSharp%20developer&theme=cobalt&bg_color=fff&text_color=91bef0&border_radius=8&hide_border=true" title='Developer Langs' />
 
-<img  width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=remmai&repo=smartcat&theme=cobalt&bg_color=fff&text_color=91bef0&border_radius=8&hide_border=true&layout=compact" title='SamrtCat' />
+<img  width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=remmai&repo=cat&theme=cobalt&bg_color=fff&text_color=91bef0&border_radius=8&hide_border=true&layout=compact" title='SamrtCat' />
 
 
 ### You can get to know me in the following ways.
