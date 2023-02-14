@@ -25,7 +25,3 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=ffffff" />
 </div>
-
-<div align=left>
-[![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamgames%2F76561198326858611&query=count&color=86ffc8&label=Steam&labelColor=70a5ff&logo=steam&suffix=+Games&cacheSeconds=3600)](https://steamcommunity.com/profiles/76561198326858611)
-</div>
