@@ -27,5 +27,5 @@
 </div>
 
 <div align=left>
-<img src="https://api.swo.moe/stats/steamgames/76561198326858611">
+[<img src="https://api.swo.moe/stats/steamgames/76561198326858611">](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamgames%2F76561198326858611&query=count&color=86ffc8&label=Steam&labelColor=70a5ff&logo=steam&suffix=+Games&cacheSeconds=3600)
 </div>
