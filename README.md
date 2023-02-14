@@ -27,5 +27,5 @@
 </div>
 
 <div align=left>
-[![Steam]()](https://steamcommunity.com/profiles/)
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=ffffff" />](https://api.swo.moe/stats/steamgames/76561198326858611)
 </div>
