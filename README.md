@@ -25,4 +25,5 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Rust-000000?logo=Rust&style=for-the-badge&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Tauri-FFC131?logo=Tauri&style=for-the-badge&logoColor=ffffff" />
 </div>
