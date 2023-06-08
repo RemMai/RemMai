@@ -1,6 +1,14 @@
 <h1 align="center">RemMai</h1>
-
-
+<div align=center>
+<img src="https://img.shields.io/badge/DotNet-512bd4?logo=.NET&style=for-the-badge&logoColor=ffffff" /> 
+| <img src="https://img.shields.io/badge/MariaDB-1F305F?logo=MariaDB Foundation&style=for-the-badge&logoColor=ffffff" /> 
+| <img src="https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&style=for-the-badge&logoColor=ffffff" />
+| <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?logo=Tailwind CSS&style=for-the-badge&logoColor=ffffff" />
+| <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=ffffff" />
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=ffffff" />
+| <img src="https://img.shields.io/badge/Rust-000000?logo=Rust&style=for-the-badge&logoColor=ffffff" />
+| <img src="https://img.shields.io/badge/Tauri-FFC131?logo=Tauri&style=for-the-badge&logoColor=ffffff" />
+</div>
 
 <div align="left" >
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%A5%B0Hi%2CI'm+RemMai.;Nice+to+meet+you.%E2%98%83%EF%B8%8F" />
@@ -20,13 +28,3 @@
 ![remmaicool](./assets/wechat.png)
 ![remcoolmai@gmail.com](./assets/gmail.png)
 
-<div align=left>
-<img src="https://img.shields.io/badge/DotNet-512bd4?logo=.NET&style=for-the-badge&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/MariaDB-1F305F?logo=MariaDB Foundation&style=for-the-badge&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&style=for-the-badge&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Tailwindcss-06B6D4?logo=Tailwind CSS&style=for-the-badge&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Rust-000000?logo=Rust&style=for-the-badge&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Tauri-FFC131?logo=Tauri&style=for-the-badge&logoColor=ffffff" />
-</div>
