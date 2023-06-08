@@ -10,10 +10,7 @@
 <img src="https://img.shields.io/badge/Tauri-FFC131?logo=Tauri&style=for-the-badge&logoColor=ffffff" />
 </div>
 <div align=center>
-<a href="https://www.github.com/remmai">
-  <img src="./assets/github.png" />
-</a>
-  
+
   
 [![Github](./assets/github.png)](https://www.github.com/remmai) 
 [![Gitee](./assets/gitee.png)](https://gitee.com/remmai)
