@@ -1,3 +1,6 @@
+<h1 align="center">RemMai</h1>
+
+
 
 <div align="left" >
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%A5%B0Hi%2CI'm+RemMai.;Nice+to+meet+you.%E2%98%83%EF%B8%8F" />
