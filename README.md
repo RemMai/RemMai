@@ -1,7 +1,17 @@
-<h1 align="center">RemMai</h1>
+<h1>Hi,I'm RemMai</h1>  
+
+😋这里是RemMai的个人主页，在搭建私有GitLab后，就很少活跃。
+
+🥣已经在社会上摸爬滚打了
+
+很多人在意我的名字是什么意思，其实很简单，让我来娓娓道来。  
+Rem：雷姆，如果爱情有颜色，那么一定是蓝色♥~。  
+Mai：懵懂的青春不懂爱，取开始的M，和结尾的ai，就是Mai啦~  
+所以我的名字就是RemMai。目前用着感觉还算不错，所以就一直都没有更改过。  
 
 
-<div align=center>
+
+<div>
 <img src="https://img.shields.io/badge/DotNet-512bd4?logo=.NET&style=for-the-badge&logoColor=ffffff" /> 
 <img src="https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&style=for-the-badge&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=ffffff" />
