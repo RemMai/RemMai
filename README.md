@@ -21,6 +21,10 @@
 <img src="https://img.shields.io/badge/DotNet-512bd4?logo=.NET&style=for-the-badge&logoColor=ffffff" /> 
 <img src="https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&style=for-the-badge&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=ffffff">
+<img src="https://img.shields.io/badge/rider-000000?style=for-the-badge&logo=rider&logoColor=ffffff">
+<img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff">
+
 <!-- <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?logo=Tailwind CSS&style=for-the-badge&logoColor=ffffff" /> --> 
 <!-- <img src="https://img.shields.io/badge/MariaDB-1F305F?logo=MariaDB Foundation&style=for-the-badge&logoColor=ffffff" /> --> 
 <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=ffffff" /> --> 
