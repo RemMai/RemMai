@@ -25,31 +25,12 @@
 <img src="https://img.shields.io/badge/edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=ffffff">
 <img src="https://img.shields.io/badge/rider-000000?style=for-the-badge&logo=rider&logoColor=ffffff">
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff">
-
-<!-- <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?logo=Tailwind CSS&style=for-the-badge&logoColor=ffffff" /> --> 
-<!-- <img src="https://img.shields.io/badge/MariaDB-1F305F?logo=MariaDB Foundation&style=for-the-badge&logoColor=ffffff" /> --> 
-<!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=ffffff" /> --> 
-<!-- <img src="https://img.shields.io/badge/Rust-000000?logo=Rust&style=for-the-badge&logoColor=ffffff" /> --> 
-<!-- <img src="https://img.shields.io/badge/Tauri-FFC131?logo=Tauri&style=for-the-badge&logoColor=ffffff" /> --> 
-</div>
-
-<div>  
-  
-<!-- [![Github](./assets/github.png)](https://www.github.com/remmai) --> 
-<!-- [![Gitee](./assets/gitee.png)](https://gitee.com/remmai) --> 
-<!-- [![Cnblogs](./assets/cnblogs.png)](https://remmai.cnblogs.com) --> 
-
-<!-- [![Gitlab](./assets/gitlab.png)](http://remmai.com:6500) --> 
-<!-- ![2464233121](./assets/qq.png) --> 
-<!-- ![remmaicool](./assets/wechat.png) --> 
-<!-- ![remcoolmai@gmail.com](./assets/gmail.png) --> 
 </div>
 
 
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmai&layout=compact&langs_count=4&hide=EJS&exclude_repo=remmai.github.io,cdn&theme=cobalt&bg_color=fff&text_color=91bef0&border_radius=8&hide_border=true&hide_title=true" />
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmai&layout=compact&langs_count=4&hide=EJS&exclude_repo=remmai.github.io,cdn&custom_title=I%27m%20a%20CSharp%20developer&theme=cobalt&bg_color=fff&text_color=91bef0&border_radius=8&hide_border=true" title='Developer Langs' />
-
-<img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=remmai&theme=cobalt&bg_color=fff&text_color=91bef0&icon_color=91bef0&border_radius=8&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true" title="RemMai's GitHub stats" />
+<img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=remmai&theme=cobalt&bg_color=fff&text_color=91bef0&icon_color=91bef0&border_radius=8&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true" />
 
 ---  
 
