@@ -1,4 +1,6 @@
 <h1 align="center">RemMai</h1>
+
+
 <div align=center>
 <img src="https://img.shields.io/badge/DotNet-512bd4?logo=.NET&style=for-the-badge&logoColor=ffffff" /> 
 <img src="https://img.shields.io/badge/MariaDB-1F305F?logo=MariaDB Foundation&style=for-the-badge&logoColor=ffffff" /> 
@@ -9,12 +11,12 @@
 <img src="https://img.shields.io/badge/Rust-000000?logo=Rust&style=for-the-badge&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Tauri-FFC131?logo=Tauri&style=for-the-badge&logoColor=ffffff" />
 </div>
-<div align=center>
 
-  
+<div align=center>
 [![Github](./assets/github.png)](https://www.github.com/remmai) 
 [![Gitee](./assets/gitee.png)](https://gitee.com/remmai)
-[![Cnblogs](./assets/cnblogs.png)](https://www.cnblogs.com/remmai)
+[![Gitlab](./assets/gitlab.png)](http://remmai.com:6500)
+[![Cnblogs](./assets/cnblogs.png)](https://remmai.cnblogs.com)
 ![2464233121](./assets/qq.png)
 ![remmaicool](./assets/wechat.png)
 ![remcoolmai@gmail.com](./assets/gmail.png)
