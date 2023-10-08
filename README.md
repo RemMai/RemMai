@@ -30,9 +30,9 @@
 
 <div>  
   
-[![Github](./assets/github.png)](https://www.github.com/remmai) 
-[![Gitee](./assets/gitee.png)](https://gitee.com/remmai)
-[![Cnblogs](./assets/cnblogs.png)](https://remmai.cnblogs.com)
+<!-- [![Github](./assets/github.png)](https://www.github.com/remmai) --> 
+<!-- [![Gitee](./assets/gitee.png)](https://gitee.com/remmai) --> 
+<!-- [![Cnblogs](./assets/cnblogs.png)](https://remmai.cnblogs.com) --> 
 
 <!-- [![Gitlab](./assets/gitlab.png)](http://remmai.com:6500) --> 
 <!-- ![2464233121](./assets/qq.png) --> 
