@@ -1,15 +1,21 @@
 <h1>Hi,I'm RemMai</h1>  
 
-😋这里是RemMai的个人主页，在搭建私有GitLab后，就很少活跃。
+尽管走下去，不必逗留着，去采鲜花来保存，因为在这一路上，花自然会继续开放  
 
-🥣已经在社会上摸爬滚打了
+🥣 不擅长唱跳Rap篮球，但是能听歌，敲代码，打游戏，做爬虫  
+🚀 喜欢使用`VS Code`、`Rider`、`DataGrip`、`Edge`来开发我那菜如弱鸡~~`非常🐂🍺`~~的项目  
+💗 喜欢玩`Apex`、`CS2`，偶尔玩玩`Minecraft`，大多数时候都在听音乐，不喜欢玩单机游戏 ~~`我不是菜鸡`~~  
+💊 一直在规划开Minecraft的服务器，但是经常因为网络不稳定、配置不好Minecraft服务器等原因，一直搁置  
+🥭 喜欢有趣的想法，但是经常动力不足，让我的想法一直搁置  
+🍭 朋友很少，不会交友，在网络上找存在感 ~~`罪该万死`~~   
+🌮 喜欢喝`⛄柠檬水`，没有柠檬水的世界将会崩塌  
 
-很多人在意我的名字是什么意思，其实很简单，让我来娓娓道来。  
-Rem：雷姆，如果爱情有颜色，那么一定是蓝色♥~。  
-Mai：懵懂的青春不懂爱，取开始的M，和结尾的ai，就是Mai啦~  
-所以我的名字就是RemMai。目前用着感觉还算不错，所以就一直都没有更改过。  
 
-
+#### 关于我的名字 ❓
+- 很多人在意我的名字是什么意思，其实很简单，让我来娓娓道来    
+- Rem：`雷姆`，如果爱情有颜色，那么一定是蓝色💗~  
+- Mai ：懵懂的青春不懂爱，取开始的`M`，和结尾的`ai`，就是`Mai`啦~   
+- 所以我的名字就是RemMai。目前用着感觉还算不错，所以就一直都没有更改过    
 
 <div>
 <img src="https://img.shields.io/badge/DotNet-512bd4?logo=.NET&style=for-the-badge&logoColor=ffffff" /> 
@@ -22,7 +28,7 @@ Mai：懵懂的青春不懂爱，取开始的M，和结尾的ai，就是Mai啦~
 <!-- <img src="https://img.shields.io/badge/Tauri-FFC131?logo=Tauri&style=for-the-badge&logoColor=ffffff" /> --> 
 </div>
 
-<div align=center>  
+<div>  
   
 [![Github](./assets/github.png)](https://www.github.com/remmai) 
 [![Gitee](./assets/gitee.png)](https://gitee.com/remmai)
