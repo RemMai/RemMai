@@ -10,14 +10,13 @@
 🍭 朋友很少，不会交友，在网络上找存在感 ~~`罪该万死`~~   
 🌮 喜欢喝`⛄柠檬水`，没有柠檬水的世界将会崩塌  
 
-#### 关于我的名字 ❓
+#### ❓关于我的名字 （很重要！！！）  
 - 很多人在意我的名字是什么意思，其实很简单，让我来娓娓道来    
 - Rem：`雷姆`，如果爱情有颜色，那么一定是蓝色💗~  
-- Mai ：懵懂的青春不懂爱，取开始的`M`，和结尾的`ai`，就是`Mai`啦~   
-- 所以我的名字就是RemMai。目前用着感觉还算不错，所以就一直都没有更改过    
+- Mai ：懵懂的青春不懂爱，取开始的`M`，和结尾的`ai`，就是`Mai`啦~
+- 你可以通过RemMai在任意搜索引擎搜索到我的行踪~  
 
 ---
-
 <div >
 <img src="https://img.shields.io/badge/.net-512bd4?logo=.NET&style=for-the-badge&logoColor=ffffff" /> 
 <img src="https://img.shields.io/badge/vue-4FC08D?logo=Vue.js&style=for-the-badge&logoColor=ffffff" />
@@ -27,13 +26,11 @@
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff">
 </div>
 
-
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmai&layout=compact&langs_count=6&hide=EJS&exclude_repo=remmai.github.io,cdn&theme=cobalt&bg_color=fff&text_color=91bef0&border_radius=8&hide_border=true&hide_title=true" />
 
 <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=remmai&theme=cobalt&bg_color=fff&text_color=91bef0&icon_color=91bef0&border_radius=8&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true" />
 
 ---  
-
 ## 我的开源项目
 
 <img  width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=remmai&repo=smallcat&theme=cobalt&bg_color=fff&text_color=91bef0&border_radius=8&hide_border=true&layout=compact" title='SmallCat' />
