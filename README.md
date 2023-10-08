@@ -18,9 +18,9 @@
 [![Gitee](./assets/gitee.png)](https://gitee.com/remmai)
 [![Gitlab](./assets/gitlab.png)](http://remmai.com:6500)
 [![Cnblogs](./assets/cnblogs.png)](https://remmai.cnblogs.com)
-![2464233121](./assets/qq.png)
-![remmaicool](./assets/wechat.png)
-![remcoolmai@gmail.com](./assets/gmail.png)
+<!-- ![2464233121](./assets/qq.png) --> 
+<!-- ![remmaicool](./assets/wechat.png) --> 
+<!-- ![remcoolmai@gmail.com](./assets/gmail.png)--> 
 </div>
 
 
