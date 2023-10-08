@@ -10,7 +10,6 @@
 🍭 朋友很少，不会交友，在网络上找存在感 ~~`罪该万死`~~   
 🌮 喜欢喝`⛄柠檬水`，没有柠檬水的世界将会崩塌  
 
-
 #### 关于我的名字 ❓
 - 很多人在意我的名字是什么意思，其实很简单，让我来娓娓道来    
 - Rem：`雷姆`，如果爱情有颜色，那么一定是蓝色💗~  
@@ -19,7 +18,7 @@
 
 ---
 
-<div>
+<div >
 <img src="https://img.shields.io/badge/.net-512bd4?logo=.NET&style=for-the-badge&logoColor=ffffff" /> 
 <img src="https://img.shields.io/badge/vue-4FC08D?logo=Vue.js&style=for-the-badge&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/docker-2496ED?logo=Docker&style=for-the-badge&logoColor=ffffff" />
