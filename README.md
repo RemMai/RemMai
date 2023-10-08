@@ -17,10 +17,12 @@
 - Mai ：懵懂的青春不懂爱，取开始的`M`，和结尾的`ai`，就是`Mai`啦~   
 - 所以我的名字就是RemMai。目前用着感觉还算不错，所以就一直都没有更改过    
 
+---
+
 <div>
-<img src="https://img.shields.io/badge/DotNet-512bd4?logo=.NET&style=for-the-badge&logoColor=ffffff" /> 
-<img src="https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&style=for-the-badge&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/.net-512bd4?logo=.NET&style=for-the-badge&logoColor=ffffff" /> 
+<img src="https://img.shields.io/badge/vue-4FC08D?logo=Vue.js&style=for-the-badge&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/docker-2496ED?logo=Docker&style=for-the-badge&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=ffffff">
 <img src="https://img.shields.io/badge/rider-000000?style=for-the-badge&logo=rider&logoColor=ffffff">
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff">
@@ -45,8 +47,8 @@
 </div>
 
 
-<img  height="180" src="https://github-readme-stats.vercel.app/api?username=remmai&theme=cobalt&bg_color=fff&text_color=91bef0&icon_color=91bef0&border_radius=8&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true" title="RemMai's GitHub stats" />
+<img  align=right  width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmai&layout=compact&langs_count=4&hide=EJS&exclude_repo=remmai.github.io,cdn&custom_title=I%27m%20a%20CSharp%20developer&theme=cobalt&bg_color=fff&text_color=91bef0&border_radius=8&hide_border=true" title='Developer Langs' />
 
-<img align=right width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmai&layout=compact&langs_count=4&hide=EJS&exclude_repo=remmai.github.io,cdn&custom_title=I%27m%20a%20CSharp%20developer&theme=cobalt&bg_color=fff&text_color=91bef0&border_radius=8&hide_border=true" title='Developer Langs' />
+<img height="180" width="500" src="https://github-readme-stats.vercel.app/api?username=remmai&theme=cobalt&bg_color=fff&text_color=91bef0&icon_color=91bef0&border_radius=8&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true" title="RemMai's GitHub stats" />
 
 <img  width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=remmai&repo=smallcat&theme=cobalt&bg_color=fff&text_color=91bef0&border_radius=8&hide_border=true&layout=compact" title='SmallCat' />
