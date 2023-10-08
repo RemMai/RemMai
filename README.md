@@ -28,7 +28,7 @@
 </div>
 
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmai&layout=compact&langs_count=4&hide=EJS&exclude_repo=remmai.github.io,cdn&theme=cobalt&bg_color=fff&text_color=91bef0&border_radius=8&hide_border=true&hide_title=true" />
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmai&layout=compact&langs_count=6&hide=EJS&exclude_repo=remmai.github.io,cdn&theme=cobalt&bg_color=fff&text_color=91bef0&border_radius=8&hide_border=true&hide_title=true" />
 
 <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=remmai&theme=cobalt&bg_color=fff&text_color=91bef0&icon_color=91bef0&border_radius=8&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true" />
 
