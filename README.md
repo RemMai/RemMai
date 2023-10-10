@@ -2,6 +2,7 @@
 
 尽管走下去，不必逗留着，去采鲜花来保存，因为在这一路上，花自然会继续开放  
 
+
 🥣 不擅长唱跳Rap篮球，但是能听歌，敲代码，打游戏，做爬虫  
 🚀 喜欢使用`VS Code`、`Rider`、`DataGrip`、`Edge`来开发我那非常🐂🍺 ~~`菜如弱鸡`~~ 的项目  
 💗 喜欢玩`Apex`、`CS2`，偶尔玩玩`Minecraft`，大多数时候都在听音乐，不喜欢玩单机游戏 ~~`我不是菜鸡`~~  
@@ -10,7 +11,9 @@
 🍭 朋友很少，不会交友，在网络上找存在感 ~~`罪该万死`~~   
 🌮 喜欢喝`⛄柠檬水`，没有柠檬水的世界将会崩塌  
 
-<img src="./assets/index.60770af0.png" algin=right >
+<img src="./assets/index.60770af0.png" align="right" width="300px" />
+
+<div>
 
 #### ❓关于我的名字 （很重要！！！）  
 - 很多人在意我的名字是什么意思，其实很简单，让我来娓娓道来    
@@ -18,7 +21,8 @@
 - Mai ：懵懂的青春不懂爱，取开始的`M`，和结尾的`ai`，就是`Mai`啦~
 - 你可以通过RemMai在任意搜索引擎搜索到我的行踪~  
 
----
+</div>  
+
 <div >
 <img src="https://img.shields.io/badge/.net-512bd4?logo=.NET&style=for-the-badge&logoColor=ffffff" /> 
 <img src="https://img.shields.io/badge/vue-4FC08D?logo=Vue.js&style=for-the-badge&logoColor=ffffff" />
@@ -27,6 +31,9 @@
 <img src="https://img.shields.io/badge/rider-000000?style=for-the-badge&logo=rider&logoColor=ffffff">
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff">
 </div>
+
+---  
+
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmai&layout=compact&langs_count=6&hide=EJS&exclude_repo=remmai.github.io,cdn&theme=cobalt&bg_color=fff&text_color=91bef0&border_radius=8&hide_border=true&hide_title=true" />
 
