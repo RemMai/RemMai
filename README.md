@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=ffffff">
 <img src="https://img.shields.io/badge/rider-000000?style=for-the-badge&logo=rider&logoColor=ffffff">
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff">
+<img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=ffffff">
 </div>
 
 ---  
